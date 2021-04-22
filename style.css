@@ -1,0 +1,24 @@
+table {
+    text-align: center;
+}
+
+tbody tr {
+    border: 1px solid white;
+    padding: 20px 20px;
+    color: white;
+}
+
+table td {
+    border: 1px solid black;
+    background: gray;
+}
+
+caption{text-align: center;
+font-size: 30px;
+border-bottom: 1px solid gray;
+padding: 10px 0px;
+}
+
+h1{width: 250px;
+text-align: center;
+font-weight: bold;}
